@@ -1,0 +1,34 @@
+[
+    {
+        "PrimaryKey" : "Category",
+        "SortKey" :  "Nội thất"
+    },
+    {
+        "PrimaryKey" : "Category",
+        "SortKey" :  "Ngoại thất"
+    },
+    {
+        "PrimaryKey" : "Category",
+        "SortKey" :   "Gia dụng"
+    },
+    {
+        "PrimaryKey" : "Category",
+        "SortKey" :  "Điện tử"
+    },
+    {
+        "PrimaryKey" : "Category",
+        "SortKey" :  "Điện lạnh"
+    },
+    {
+        "PrimaryKey" : "Hot",
+        "SortKey" :  "P124"
+    },
+    {
+        "PrimaryKey" : "Hot",
+        "SortKey" :  "P125"
+    },
+    {
+        "PrimaryKey" : "Hot",
+        "SortKey" :  "P126"
+    }
+]

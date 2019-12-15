@@ -1,0 +1,48 @@
+[
+    {
+        "UserID":  "123456",
+        "Varies": "123456",
+        "Email": "nguyenlenamanh@gmail.com",
+        "FirstName" : "Nam Anh",
+        "LastName" : "Nguyễn Lê",
+        "Country" : "Vietnam",
+        "Address" : "123 Fake Address, Dont find me",
+        "City" : "Ho chi minh",
+        "ZipCode" : 70000,
+        "Phone" : "+841203620288",
+        "Password" : "123456",
+        "Salt" : "Random string",
+        "Favorite" : [
+            "P001","P002"
+        ],
+        "Type": "Admin"
+    },
+    {
+        "UserID":  "123456",
+        "Varies": "Nu1DwpSkwm",
+        "TotalPrice" : 1500000,
+        "Date" : "05-10-2019",
+        "Status" : "Waiting",
+        "DetailInfo" : {
+            "OrderName" : "Nguyễn Thị xxx",
+            "Address" : "123 Fake Address, Dont find me",
+            "Phone" : "+84145236210",
+            "DateArrive" : "10-10-2019",
+            "PaymentMethod" : "Cash"
+        }
+    },
+    {
+        "UserID":  "123456",
+        "Varies": "FP0f6h7hFP",
+        "TotalPrice" : 300000,
+        "Date" : "07-10-2019",
+        "Status" : "Waiting",
+        "DetailInfo" : {
+            "OrderName" : "Nguyễn Thị xxx",
+            "Address" : "123 Fake Address, Dont find me",
+            "Phone" : "+84145236210",
+            "DateArrive" : "07-10-2019",
+            "PaymentMethod" : "Online"
+        }
+    }
+]
